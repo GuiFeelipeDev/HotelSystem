@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="formCadastrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formCadCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formCadQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formNomesCadastrados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
